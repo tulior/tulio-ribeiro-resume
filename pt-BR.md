@@ -1,6 +1,6 @@
 # Túlio Ribeiro dos Anjos
 
-**Desenvolvedor Full Stack**
+**Desenvolvedor Backend**
 
 **Email:** mail@tulio.org  
 **Telefone:** 🇧🇷 +55 67 9 9266 0804  
