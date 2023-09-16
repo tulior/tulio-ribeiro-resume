@@ -8,7 +8,7 @@
 **Website:** https://tulio.org
 
 ## Resumo
-Como desenvolvedor full stack com 10 anos de experiência e um **Bacharelado em Engenharia de Computação**, forneci soluções web para vários domínios como privacidade de dados e administração pública. Tenho habilidades em C#, Java e T-SQL, bem como em frameworks e ferramentas como .NET WebAPI, Spring Boot e Angular. Sou certificado pela Oracle em Java SE 11 e tenho sólidos conhecimentos no desenvolvimento de endpoints RESTful e no trabalho com bancos de dados relacionais. Falante nativo de português, domino o inglês e estou acostumado a trabalhar em ambientes de língua inglesa. Estou ansioso para integrar uma equipe de back-end onde posso aplicar minhas habilidades e explorar novas tecnologias.
+Como desenvolvedor full stack com 10 anos de experiência e um **Bacharelado em Engenharia de Computação**, forneci soluções web para vários domínios como privacidade de dados e administração pública. Tenho habilidades em C#, Java e T-SQL, bem como em frameworks e ferramentas como .NET WebAPI, Spring Boot e Angular. Sou certificado pela Oracle em Java SE 11 e tenho sólidos conhecimentos no desenvolvimento de endpoints RESTful e no trabalho com bancos de dados relacionais. **Procuro uma posição remota**, pois estou acostumado a trabalhar nesse formato há mais de um ano. Falante nativo de português, domino o inglês e estou acostumado a trabalhar em ambientes de língua inglesa. Estou ansioso para integrar uma equipe de back-end onde posso aplicar minhas habilidades e explorar novas tecnologias.
 
 ## Experiência Profissional
 
