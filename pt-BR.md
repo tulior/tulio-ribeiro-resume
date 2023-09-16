@@ -1,6 +1,6 @@
 # Túlio Ribeiro dos Anjos
 
-**Desenvolvedor Backend**
+**Desenvolvedor Full Stack**
 
 **Email:** mail@tulio.org  
 **Telefone:** 🇧🇷 +55 67 9 9266 0804  
@@ -8,44 +8,36 @@
 **Website:** https://tulio.org
 
 ## Resumo
-
-Como desenvolvedor full stack com 10 anos de experiência, entreguei soluções web para diversos domínios, como privacidade de dados e administração pública. Tenho habilidades em C#, Java e T-SQL, bem como em frameworks e ferramentas como .NET WebAPI, Spring Boot e Angular. Possuo certificação Oracle em Java SE 11 e tenho experiência na criação de endpoints RESTful e bancos de dados relacionais. Estou ansioso para me juntar a uma equipe de back-end onde possa aplicar minhas habilidades e explorar novas tecnologias.
+Como desenvolvedor full stack com 10 anos de experiência e um **Bacharelado em Engenharia de Computação**, forneci soluções web para vários domínios como privacidade de dados e administração pública. Tenho habilidades em C#, Java e T-SQL, bem como em frameworks e ferramentas como .NET WebAPI, Spring Boot e Angular. Sou certificado pela Oracle em Java SE 11 e tenho sólidos conhecimentos no desenvolvimento de endpoints RESTful e no trabalho com bancos de dados relacionais. Falante nativo de português, domino o inglês e estou acostumado a trabalhar em ambientes de língua inglesa. Estou ansioso para integrar uma equipe de back-end onde posso aplicar minhas habilidades e explorar novas tecnologias.
 
 ## Experiência Profissional
 
-- **Engenheiro de Software na BairesDev LLC** (Remoto, Junho de 2022 - Presente)
-  - Trabalhei como desenvolvedor back-end Java em uma empresa de plataforma de privacidade de dados.
-  - Foquei na migração de código JDBC antigo para endpoints RESTful modernos, melhorando operações de banco de dados e mapeamento objeto-relacional.
-  - Implementei endpoints RESTful usando Spring Boot e Spring Data JPA, melhorando a eficiência e escalabilidade do software.
-  - Colaborei com a equipe da TerraTrue para fornecer soluções avançadas de software, permitindo que os clientes integrem recursos de privacidade e segurança em seus produtos.
-  - Utilizei a Google Cloud Platform para implantar e gerenciar serviços de back-end e bancos de dados, garantindo alto desempenho e confiabilidade.
-  - Empreguei Git para controle de versão e colaboração eficiente de código, facilitando um processo de desenvolvimento tranquilo.
-  - Banco de dados MySQL
+- **Engenheiro de Software na BairesDev LLC** (Remoto, Junho de 2022 - Atual)
+  - Comecei com um projeto para uma respeitada empresa de plataforma de privacidade de dados, trabalhando predominantemente com Java. Concentrei-me em modernizar o antigo código Java em endpoints RESTful usando Hibernate e Spring Boot. Esta transformação melhorou significativamente a eficiência e usabilidade das aplicações.
+  - Transição para um projeto com um importante cliente de e-commerce, trabalhando ativamente em uma função dupla com Java e C#. Liderei uma migração bem-sucedida do Universal Analytics para o Google Analytics 4 dentro dos prazos estabelecidos e atualmente estou integrando a loja back-end com o Shopify, uma sofisticada solução de e-commerce, usando Amazon SNS, SQS, Lambda e endpoints do GraphQL.
+  - Colaborei e comuniquei efetivamente em inglês em um ambiente remoto e multicultural, adaptando-me rapidamente e garantindo fluxos de trabalho eficientes.
 
-- **Desenvolvedor Full Stack na Geoi2 Tecnologia da Informação** (Campo Grande, Brasil, Agosto de 2019 - Junho de 2022)
-  - Trabalhei como contratado para o Tribunal de Contas do Estado, uma agência governamental que supervisiona os gastos públicos no Brasil.
-  - Desenvolvi aplicações web usando Java 8 e Java 11 com Spring Boot, Spring Security e Spring Data JPA
-  - Usei Angular até a versão 13 para desenvolvimento front-end, implementando interfaces responsivas e amigáveis ao usuário.
-  - Aproveitei a plataforma GitLab CI/CD para automatizar o desenvolvimento, implantação e teste de APIs e aplicações front-end em contêineres.
-  - Colaborei com outros desenvolvedores usando Git para controle de versão e revisão de código.
-  - Trabalhei com o Microsoft SQL Server, escrevendo e otimizando consultas para garantir a recuperação e manipulação eficiente de dados, bem como projetando e implementando esquemas de banco de dados.
-  - Contribuí para a criação de um cliente Java Linux para gerenciamento automatizado de banco de dados, execução de scripts ETL, compressão de dados usando GZIP e transferência segura de dados para um banco de dados MongoDB em conexões lentas à internet.
+- **Desenvolvedor Full Stack na Geoi2 Tecnologia da Informação** (Campo Grande, Brasil, Remoto, Agosto 2019 - Junho 2022)
+   - Desempenhei um papel importante na criação de um robusto cliente Java Linux para gestão automatizada de bancos de dados que funcionou em múltiplos bancos de dados, incluindo MySQL, PostgreSQL, Firebird e Sybase. Isso foi fundamental para melhorar a eficiência e diminuir a carga de trabalho manual.
+   - Apliquei a minha especialidade em scripts ETL usando Pentaho Kettle para a extração sistemática de dados para um banco de dados MongoDB, compressão (GZIP) e transferência segura através de conexões lentas de internet para o centro de dados, garantindo um pipeline de dados confiável e consistente.
+   - Liderei o desenvolvimento front-end do projeto eContas, atualizando a desatualizada aplicação JSF para uma aplicação Angular de página única modernizada. A transição resultou em uma melhoria significativa na experiência do usuário e no desempenho, contribuindo para o sucesso do projeto.
+   - A função exigiu uma colaboração eficaz com uma equipe remota, o que se superou com uma coordenação e comunicação bem-sucedidas.
 
-- **Desenvolvedor Full Stack na Fonte Tecnologia** (Campo Grande, Brasil, Agosto de 2017 - Agosto de 2019)
-  - Trabalhei como contratado para a Compnet, uma empresa que fornece soluções de TI para os setores público e privado no Brasil.
-  - Desenvolvi e mantive aplicações web usando o framework C# .NET WebAPI e as bibliotecas Knockout.js e SignalR para desenvolvimento front-end.
-  - Projetei e otimizei consultas de banco de dados usando a linguagem T-SQL e o SQL Server Management Studio.
-  - Colaborei com outros desenvolvedores usando Git para controle de versão e revisão de código.
+- **Desenvolvedor Full Stack na Fonte Tecnologia** (Campo Grande, Brasil, Agosto 2017 - Agosto 2019)
+  - Trabalhei como contratado para a Compnet, uma empresa que oferece soluções de TI para os setores público e privado no Brasil.
+  - Desenvolvi e mantive aplicações web usando C# .NET WebAPI framework e bibliotecas Knockout.js e SignalR para o desenvolvimento front-end.
+  - Projetei e otimizei consultas de bancos de dados usando a linguagem T-SQL e o SQL Server Management Studio.
+  - Colaborei com outros desenvolvedores usando Git para controle de versões e revisão de código.
 
-- **Desenvolvedor Full Stack na PSG - Tecnologia Aplicada** (Campo Grande, Brasil, Março de 2013 - Agosto de 2017)
+- **Desenvolvedor Full Stack na PSG - Tecnologia Aplicada** (Campo Grande, Brasil, Março 2013 - Agosto 2017)
   - Trabalhei como contratado para a SGI - Superintendência de Gestão da Informação, uma agência governamental que gerencia sistemas de informação e bancos de dados no Brasil.
-  - Desenvolvimento full-stack usando as linguagens C#, JavaScript e T-SQL e várias tecnologias .NET, como MVC, WebAPI, Entity Framework, Core, Code First e Model First.
-  - Colaborei com outros desenvolvedores usando Git para controle de versão e revisão de código.
+  - Realizei o desenvolvimento full-stack usando as linguagens C#, JavaScript e T-SQL e várias tecnologias .NET, como MVC, WebAPI, Entity Framework, Core, Code First e Model First.
+  - Colaborei com outros desenvolvedores usando o Git para controle de versões e revisão de código.
 
-## Educação
+## Formação
 
-- **Bacharel em Engenharia da Computação na Anhanguera Uniderp** (Campo Grande, Brasil, 2009 - 2013)
-  - Concluí uma tese de graduação sobre inteligência artificial aplicada à previsão do tempo usando Python e NeuroLab.
+- **Bacharel em Engenharia de Computação na Anhanguera Uniderp** (Campo Grande, Brasil, 2009 - 2013)
+  - Completei uma tese de graduação sobre inteligência artificial aplicada à previsão do tempo usando Python e NeuroLab.
 
 ## Certificações
 
