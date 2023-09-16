@@ -8,28 +8,20 @@
 **Website:** https://tulio.org
 
 ## Summary
-
-As a full stack developer with 10 years of experience, I have delivered web solutions for various domains such as data privacy and public administration. I am skilled in C#, Java, and T-SQL, as well as frameworks and tools such as .NET WebAPI, Spring Boot, and Angular. I hold an Oracle certification in Java SE 11 and have a strong background in creating RESTful endpoints and working with relational databases. I am eager to join a back-end team where I can apply my skills and explore new technologies such as Go, Rust, and Kotlin.
+As a full stack developer with 10 years of experience and a **Bachelor's degree in Computer Engineering**, I have delivered web solutions for various domains such as data privacy and public administration. I am skilled in C#, Java, and T-SQL, as well as frameworks and tools such as .NET WebAPI, Spring Boot, and Angular. I hold an Oracle certification in Java SE 11 and have a strong background in creating RESTful endpoints and working with relational databases. A native Portuguese speaker, I have become proficient in English and am accustomed to working in English speaking environments. I am eager to join a back-end team where I can apply my skills and explore new technologies.
 
 ## Professional Experience
 
 - **Software Engineer at BairesDev LLC** (Remote, June 2022 - Present)
-  - Worked as a Java back-end developer a data privacy platform company.
-  - Focused on migrating old JDBC code to modern RESTful endpoints, improving database operations and object-relational mapping.
-  - Implemented RESTful endpoints using Spring Boot and Spring Data JPA, enhancing software efficiency and scalability.
-  - Collaborated with TerraTrue's team to provide advanced software solutions, allowing clients to integrate privacy and security features into their products.
-  - Utilized Google Cloud Platform for deploying and managing back-end services and databases, ensuring high performance and reliability.
-  - Employed Git for version control and efficient code collaboration, facilitating a smooth development process.
-  - MySQL database
+  - Began with a project for an esteemed data privacy platform company, predominantly working with Java. Focused on modernizing older Java code into RESTful endpoints using Hibernate and Spring Boot. This transformation significantly improved the efficiency and usability of applications.
+  - Transitioned to a project with a prominent e-commerce client, actively working in a dual role with Java and C#. Spearheaded a successful migration from Universal Analytics to Google Analytics 4 within set timelines and currently integrating the back-end store with Shopify, sophisticated e-commerce solution, using Amazon SNS, SQS, Lambda, and GraphQL's endpoints.
+  - Collaborated and communicated effectively in English in a remote, multi-cultural setting, adapting swiftly and ensuring seamless workflows.
 
-- **Full Stack Developer at Geoi2 Tecnologia da Informação** (Campo Grande, Brazil, August 2019 - June 2022)
-  - Worked as a contractor for Tribunal de Contas do Estado, a government agency that oversees public spending in Brazil.
-  - Developed web applications using Java 8 and Java 11 with Spring Boot, Spring Security, and Spring Data JPA
-  - Used Angular up to version 13 for front-end development, implementing responsive and user-friendly interfaces.
-  - Leveraged GitLab CI/CD platform to automate the development, deployment, and testing of containerized APIs and front-end applications.
-  - Collaborated with other developers using Git for version control and code review.
-  - Worked with Microsoft SQL Server, writing and optimizing queries to ensure efficient data retrieval and manipulation, as well as designing and implementing database schema.
-  - Contributed to the creation of a Linux Java client for automated database management, ETL script execution, data compression using GZIP, and secure data transfer to a MongoDB database over slow internet connections.
+- **Full Stack Developer at Geoi2 Tecnologia da Informação** (Campo Grande, Brazil, Remote, August 2019 - June 2022)
+   - Superior role in creating a robust Linux Java client for automated database management that functioned across multiple databases including MySQL, PostgreSQL, Firebird, and Sybase. This was critical to improving efficiency and reducing manual workload.
+   - Applied expertise in ETL scripts using Pentaho Kettle for systematic data extraction to a MongoDB database, compression (GZIP), and secure transfer over slow internet connections to the data center, ensuring a reliable and consistent data pipeline.
+   - Led the front-end development of the eContas project, converting from an outdated JSF application to a modernized Angular single-page application. The transition brought significant improvement in user experience and performance, contributing to the project's success.
+   - Role required effective collaboration with a remote team, one which was tackled with successful coordination and communication.
 
 - **Full Stack Developer at Fonte Tecnologia** (Campo Grande, Brazil, August 2017 - August 2019)
   - Worked as a contractor for Compnet, a company that provides IT solutions for public and private sectors in Brazil.
