@@ -8,43 +8,58 @@
 **Website:** https://tulio.org
 
 ## Summary
-As a full stack developer with 10 years of experience and a **Bachelor's degree in Computer Engineering**, I have delivered web solutions for various domains such as data privacy and public administration. I am skilled in C#, Java, and T-SQL, as well as frameworks and tools such as .NET WebAPI, Spring Boot, and Angular. I hold an Oracle certification in Java SE 11 and have a strong background in creating RESTful endpoints and working with relational databases. A native Portuguese speaker, I have become proficient in English and am accustomed to working in English speaking environments. I am eager to join a back-end team where I can apply my skills and explore new technologies.
+Experienced Full Stack Developer with 11 years in the field and a Bachelor's degree in Computer Engineering. Skilled in delivering web solutions across various domains, including data privacy and public administration. Proficient in C#, Java, JavaScript, TypeScript and T-SQL, with expertise in frameworks like .NET Core, Spring Boot, and Angular. Oracle-certified in Java SE 11, with a strong background in RESTful API development and relational databases. Native Portuguese speaker with fluent English, comfortable in English-speaking work environments. Seeking a back-end role to apply my skills and explore new technologies.
 
 ## Professional Experience
 
-- **Software Engineer at BairesDev LLC** (Remote, June 2022 - Present)
-  - Began with a project for an esteemed data privacy platform company, predominantly working with Java. Focused on modernizing older Java code into RESTful endpoints using Hibernate and Spring Boot. This transformation significantly improved the efficiency and usability of applications.
-  - Transitioned to a project with a prominent e-commerce client, actively working in a dual role with Java and C#. Spearheaded a successful migration from Universal Analytics to Google Analytics 4 within set timelines and currently integrating the back-end store with Shopify, sophisticated e-commerce solution, using Amazon SNS, SQS, Lambda, and GraphQL's endpoints.
-  - Collaborated and communicated effectively in English in a remote, multi-cultural setting, adapting swiftly and ensuring seamless workflows.
+### Software Engineer at BairesDev LLC
+*Remote, June 2022 - Present*
 
-- **Full Stack Developer at Geoi2 Tecnologia da Informação** (Campo Grande, Brazil, Remote, August 2019 - June 2022)
-   - Superior role in creating a robust Linux Java client for automated database management that functioned across multiple databases including MySQL, PostgreSQL, Firebird, and Sybase. This was critical to improving efficiency and reducing manual workload.
-   - Applied expertise in ETL scripts using Pentaho Kettle for systematic data extraction to a MongoDB database, compression (GZIP), and secure transfer over slow internet connections to the data center, ensuring a reliable and consistent data pipeline.
-   - Led the front-end development of the eContas project, converting from an outdated JSF application to a modernized Angular single-page application. The transition brought significant improvement in user experience and performance, contributing to the project's success.
-   - Role required effective collaboration with a remote team, one which was tackled with successful coordination and communication.
+- Modernized legacy Java code into RESTful endpoints using Hibernate and Spring Boot for a leading data privacy platform, significantly improving code maintainability and facilitating easier future updates.
+- Led a successful migration from Universal Analytics to Google Analytics 4 for a major e-commerce client, meeting tight deadlines.
+- Completed a comprehensive integration between the client's internal e-commerce system and Shopify, featuring:
+  - Full bi-directional inventory synchronization, ensuring real-time stock accuracy across platforms.
+  - Automated order processing using Shopify webhooks.
+  - Implemented robust error handling and retry mechanisms to ensure data consistency in case of network issues.
+  - Utilized Amazon Web Services (AWS) including Lambda functions for serverless computing and CloudWatch for production log monitoring and troubleshooting.
+- Demonstrated versatility by working with both Java and C# codebases.
+- Effectively collaborated in English within a remote, multicultural team, ensuring smooth workflows.
 
-- **Full Stack Developer at Fonte Tecnologia** (Campo Grande, Brazil, August 2017 - August 2019)
-  - Worked as a contractor for Compnet, a company that provides IT solutions for public and private sectors in Brazil.
-  - Developed and maintained web applications using C# .NET WebAPI framework and Knockout.js and SignalR libraries for front-end development.
-  - Designed and optimized database queries using T-SQL language and SQL Server Management Studio.
-  - Collaborated with other developers using Git for version control and code review.
+### Full Stack Developer at Geoi2 Tecnologia da Informação
+*Campo Grande, Brazil (Remote), August 2019 - June 2022*
 
-- **Full Stack Developer at PSG - Tecnologia Aplicada** (Campo Grande, Brazil, March 2013 - August 2017)
-  - Worked as a contractor for SGI - Superintendência de Gestão da Informação, a government agency that manages information systems and databases in Brazil.
-  - Full-stack development using C#, JavaScript, and T-SQL languages and various .NET technologies, such as MVC, WebAPI, Entity Framework, Core, Code First, and Model First.
-  - Collaborated with other developers using Git for version control and code review.
+- Developed a robust Linux Java client for automated database management across MySQL, PostgreSQL, Firebird, and Sybase, significantly reducing manual workload.
+- Implemented ETL scripts using Pentaho Kettle for data extraction to MongoDB, compression (GZIP), and secure transfer over slow connections, ensuring a reliable data pipeline.
+- Spearheaded the front-end development of the eContas project, transitioning from JSF to Angular, resulting in improved user experience and performance.
+- Successfully coordinated and communicated with a remote team, ensuring project success.
+
+### Full Stack Developer at Fonte Tecnologia
+*Campo Grande, Brazil, August 2017 - August 2019*
+
+- Contracted by Compnet to provide IT solutions for public and private sectors in Brazil.
+- Developed and maintained web applications using C# .NET WebAPI, Knockout.js, and SignalR.
+- Optimized database queries using T-SQL and SQL Server Management Studio.
+- Collaborated effectively using Git for version control and code review.
+
+### Full Stack Developer at PSG - Tecnologia Aplicada
+*Campo Grande, Brazil, March 2013 - August 2017*
+
+- Contracted by SGI (Superintendência de Gestão da Informação) to manage government information systems and databases.
+- Utilized C#, JavaScript, and T-SQL for full-stack development, employing various .NET technologies (MVC, WebAPI, Entity Framework, Core, Code First, and Model First).
+- Contributed to team efficiency through effective use of Git for version control and code review.
 
 ## Education
 
-- **Bachelor in Computer Engineering at Anhanguera Uniderp** (Campo Grande, Brazil, 2009 - 2013)
-  - Completed an undergraduate thesis on artificial intelligence applied to weather forecasting using Python and NeuroLab.
+**Bachelor in Computer Engineering**  
+Anhanguera Uniderp, Campo Grande, Brazil (2009 - 2013)
+- Completed thesis on AI-based weather forecasting using Python and NeuroLab.
 
 ## Certifications
 
-- **Oracle Certified Professional: Java SE 11 Developer** (2021)
+**Oracle Certified Professional: Java SE 11 Developer** (2021)
 
 ## Skills
 
-- **Back-end:** C# (6+ years), Java (4 years), Spring Boot, Spring Data JPA, Hibernate, .NET WebAPI, Entity Framework, Microsoft SQL Server, MongoDB, MySQL
-- **Front-end:** Angular 8+ (3 years), Knockout.js, SignalR, Bootstrap, Material
-- **Tools:** Docker, Docker Compose, Linux, GitLab CI/CD, Git, IntelliJ IDE, Google Cloud Platform
+- **Back-end:** C# (8+ years), Java (4 years), Spring Boot, Spring Data JPA, Hibernate, .NET WebAPI, Entity Framework, Microsoft SQL Server, MongoDB, MySQL
+- **Front-end:** Angular 8+ (3 years), Bootstrap, Material
+- **Tools:** Docker, Docker Compose, Linux, GitLab CI/CD, Git, Jetbrains IDEs, Google Cloud Platform, Amazon AWSA
